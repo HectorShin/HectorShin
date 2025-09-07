@@ -2,7 +2,7 @@
 - ⚡ Electrical Engineering student at the University of São Paulo (Brazil)  
 - 🌏 Exchange student at Osaka University (Japan)  
 - 💻 Passionate about technology, programming, and innovation
-- 
+
 <!--
 **HectorShin/HectorShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
